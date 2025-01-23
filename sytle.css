@@ -1,0 +1,28 @@
+/* Adicione seu estilo personalizado aqui */
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  header {
+    background-color: #ffcc00;
+  }
+  
+  footer {
+    background-color: #343a40;
+    color: white;
+  }
+  
+  #carousel img {
+    height: 500px;
+    object-fit: cover;
+  }
+  
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  #home {
+    background-color: #f8f9fa;
+  }
+  
